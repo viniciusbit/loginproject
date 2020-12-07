@@ -1,0 +1,8 @@
+testCriacaoCircularComSucesso,email,senha,titulocircular,descricaocircular,Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",alencar.amorin.664302@townsq.com.br,vinicius123,CircularAutomação,Descrição Automação,14383.0,14383.0,14383.0,14383.0
+testCriacaoCircularSemTitulo,email,senha,descricaocircular
+"",alencar.amorin.664302@townsq.com.br,vinicius123,Descrição Automação
+testCriacaoCircularSemDescricao,email,senha,titulocircular,Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",alencar.amorin.664302@townsq.com.br,vinicius123,CircularAutomação,13453.0,13453.0,13453.0,13453.0
+testCriacaoCircularSemTituloESemDescricao,email,senha,
+"",alencar.amorin.664302@townsq.com.br,vinicius123

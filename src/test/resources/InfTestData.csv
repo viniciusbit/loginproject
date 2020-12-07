@@ -1,0 +1,8 @@
+testCriacaoCircularComSucesso,email,senha,titulocircular,descricaocircular
+,alencar.amorin.664302@townsq.com.br,vinicius123,CircularAutomação,Descrição Automação
+testCriacaoCircularSemTitulo,email,senha,descricaocircular
+,alencar.amorin.664302@townsq.com.br,vinicius123,Descrição Automação
+testCriacaoCircularSemDescricao,email,senha,titulocircular
+,alencar.amorin.664302@townsq.com.br,vinicius123,CircularAutomação
+testCriacaoCircularSemTituloESemDescricao,email,senha,
+,alencar.amorin.664302@townsq.com.br,vinicius123
